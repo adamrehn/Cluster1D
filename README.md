@@ -3,7 +3,7 @@ Efficient hierarchical clustering for single-dimensional data using CUDA
 
 This repository contains the implementation of the clustering algorithm presented in the paper:
 
-- [Adam Rehn, Aidan Possemiers, and Jason Holdsworth. Efficient hierarchical clustering for single-dimensional data using CUDA. In Proceedings of the Australasian Computer Science Week Multiconference, ACSW '18, 14:1–14:10. New York, NY, USA, 2018. ACM.](http://doi.acm.org/10.1145/3167918.3167929)
+- [Adam Rehn, Aidan Possemiers, and Jason Holdsworth. Efficient hierarchical clustering for single-dimensional data using CUDA. In *Proceedings of the Australasian Computer Science Week Multiconference*, ACSW '18, 14:1–14:10. New York, NY, USA, 2018. ACM.](http://doi.acm.org/10.1145/3167918.3167929)
 
 
 Building from source
